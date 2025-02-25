@@ -1,4 +1,4 @@
-###  [**EN**](README.md) | [**RU**](README.ru.md)
+###  [**EN**](README.md) | [**RU**](README.ru.md) | [**JA**](README.ja.md)
 
 
 # ⚡️ AI 🤖 CRYPTO 💎 $TARTUP 🚀
